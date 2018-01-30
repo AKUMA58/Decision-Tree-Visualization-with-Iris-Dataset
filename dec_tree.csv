@@ -1,0 +1,6 @@
+Name,left_child,right_child,Attribute,boundary,type
+1,,,Iris-setosa,,leaf,"[39, 0, 0]"
+3,,,Iris-versicolor,,leaf,"[0, 38, 3]"
+4,,,Iris-virginica,,leaf,"[0, 2, 38]"
+2,3,4,3,1.55,decision,"[0, 40, 41]"
+0,1,2,2,2.5999999999999996,decision,"[39, 40, 41]"

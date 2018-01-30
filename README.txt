@@ -1,0 +1,2 @@
+This application uses Python to run. The prerequisites for this application are Scikit-learn, Pandas, Python Imaging Library, imageio, matplotlib, Graphviz, pydotplus and python Qt5.
+Run 'UI.py' to start this application.

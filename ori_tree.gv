@@ -1,0 +1,8 @@
+digraph Tree{node[shape=box];0[label="petal length in cm
+<2.5999999999999996      >=2.5999999999999996
+[39, 40, 41]"];1[label="Iris-setosa
+[39, 0, 0]"];0->1[labeldistance=2.5,labellangle=45];2[label="petal width in cm
+<1.55      >=1.55
+[0, 40, 41]"];0->2[labeldistance=2.5,labellangle=-45];3[label="Iris-versicolor
+[0, 38, 3]"];2->3[labeldistance=2.5,labellangle=45];4[label="Iris-virginica
+[0, 2, 38]"];2->4[labeldistance=2.5,labellangle=-45];}
